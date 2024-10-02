@@ -15,15 +15,15 @@ Movie Name: The name of the movie corresponding to the movie ID.
 This data will be used to build a recommendation engine that identifies the best movies for users based on their preferences and past behavior.
 
 #### Objectives
-    1. Popular and Liked Genres
-    Task: Analyze the dataset to identify the most popular and well-rated genres.
-    Deliverable: A list of genres that are frequently rated highly by users, providing insights into general preferences.
-    2. Movie Recommendation Model
-    Task: Build a recommendation model that can suggest movies for users based on their ratings and genre preferences. This will involve collaborative filtering, content-based filtering, or hybrid models.
-    Deliverable: A recommendation engine that outputs a list of movies tailored to a user’s interests across different genres.
-    3. Genre Ratings Analysis
-    Task: Evaluate which genres have received the best and worst ratings from users.
-    Deliverable: A report highlighting the best and worst-performing genres based on user feedback, providing insights into genre trends.
+1. Popular and Liked Genres
+Task: Analyze the dataset to identify the most popular and well-rated genres.
+Deliverable: A list of genres that are frequently rated highly by users, providing insights into general preferences.
+2. Movie Recommendation Model
+Task: Build a recommendation model that can suggest movies for users based on their ratings and genre preferences. This will involve collaborative filtering, content-based filtering, or hybrid models.
+Deliverable: A recommendation engine that outputs a list of movies tailored to a user’s interests across different genres.
+3. Genre Ratings Analysis
+Task: Evaluate which genres have received the best and worst ratings from users.
+Deliverable: A report highlighting the best and worst-performing genres based on user feedback, providing insights into genre trends.
 
 #### Project Structure
 Data Preprocessing: Cleaning and preparing the dataset, handling missing values, and formatting data for analysis.
